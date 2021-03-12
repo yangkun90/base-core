@@ -1,0 +1,19 @@
+{
+  "name": "yk-cms-tp5/base-core",
+  "authors": [
+    {
+      "name": "yangkun",
+      "email": "422377819@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "YkCmsTp5\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "5.1.*"
+  }
+}
